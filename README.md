@@ -1,2 +1,2 @@
-# pro
+# project
 upload the project
